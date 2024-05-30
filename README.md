@@ -7,3 +7,5 @@
 
 
 <figure><img src=".gitbook/assets/lightmode.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/CleanShot 2024-05-30 at 13.24.34@2x.png" alt=""><figcaption></figcaption></figure>
